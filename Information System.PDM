@@ -1,0 +1,581 @@
+[Root]
+Most Recent Package=Standard Setup Package 2
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\vBASIC\Under Development\InfoSys\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\Macromed\Flash\flash.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+e:\vbasic\under development\infosys\authorsdown.jpg=
+e:\vbasic\under development\infosys\authorsflat.jpg=
+e:\vbasic\under development\infosys\authorsup.jpg=
+e:\vbasic\under development\infosys\maintdown.jpg=
+e:\vbasic\under development\infosys\maintflat.jpg=
+e:\vbasic\under development\infosys\maintup.jpg=
+e:\vbasic\under development\infosys\medrecdown.jpg=
+e:\vbasic\under development\infosys\medrecflat.jpg=
+e:\vbasic\under development\infosys\medrecup.jpg=
+e:\vbasic\under development\infosys\region1.swf=
+e:\vbasic\under development\infosys\repdown.jpg=
+e:\vbasic\under development\infosys\repflat.jpg=
+e:\vbasic\under development\infosys\repup.jpg=
+e:\vbasic\under development\infosys\searchdown.jpg=
+e:\vbasic\under development\infosys\searchflat.jpg=
+e:\vbasic\under development\infosys\searchup.jpg=
+e:\vbasic\under development\infosys\setdown.jpg=
+e:\vbasic\under development\infosys\setflat.jpg=
+e:\vbasic\under development\infosys\setup.jpg=
+e:\vbasic\under development\infosys\splash.swf=
+e:\vbasic\under development\infosys\infosys.mdb=
+E:\vBASIC\Under Development\InfoSys\Admit.jpg=
+E:\vBASIC\Under Development\InfoSys\ClrTab.jpg=
+E:\vBASIC\Under Development\InfoSys\Dischrg.jpg=
+E:\vBASIC\Under Development\InfoSys\Disease.jpg=
+E:\vBASIC\Under Development\InfoSys\MedRec.jpg=
+E:\vBASIC\Under Development\InfoSys\MedSur.jpg=
+E:\vBASIC\Under Development\InfoSys\Patient.jpg=
+E:\vBASIC\Under Development\InfoSys\ScrSur.jpg=
+E:\vBASIC\Under Development\InfoSys\Users.jpg=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\vBASIC\Under Development\InfoSys\Information System.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\vBASIC\Under Development\InfoSys\AuthorsDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\AuthorsFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\AuthorsUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MaintDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MaintFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MaintUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MedRecDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MedRecFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MedRecUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Region1.swf=Yes
+E:\vBASIC\Under Development\InfoSys\RepDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\RepFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\RepUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SearchDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SearchFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SearchUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SetDown.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SetFlat.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\SetUp.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Splash.swf=Yes
+E:\vBASIC\Under Development\InfoSys\InfoSys.mdb=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\flash.ocx=Yes
+E:\vBASIC\Under Development\InfoSys\Admit.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\ClrTab.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Dischrg.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Disease.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MedRec.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\MedSur.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Patient.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\ScrSur.jpg=Yes
+E:\vBASIC\Under Development\InfoSys\Users.jpg=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\vBASIC\Under Development\InfoSys\Information System.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\flash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\vBASIC\Under Development\InfoSys\AuthorsDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\AuthorsFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\AuthorsUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MaintDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MaintFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MaintUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MedRecDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MedRecFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MedRecUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Region1.swf=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\RepDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\RepFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\RepUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SearchDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SearchFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SearchUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SetDown.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SetFlat.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\SetUp.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Splash.swf=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\InfoSys.mdb=$(AppPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\flash.ocx=$(WinSysPath)
+E:\vBASIC\Under Development\InfoSys\Admit.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\ClrTab.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Dischrg.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Disease.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MedRec.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\MedSur.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Patient.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\ScrSur.jpg=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Users.jpg=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\vBASIC\Under Development\InfoSys\Information System.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\vBASIC\Under Development\InfoSys\AuthorsDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\AuthorsFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\AuthorsUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\MaintDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\MaintFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\MaintUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\MedRecDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\MedRecFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\MedRecUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\Region1.swf=No
+E:\vBASIC\Under Development\InfoSys\RepDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\RepFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\RepUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\SearchDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\SearchFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\SearchUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\SetDown.jpg=No
+E:\vBASIC\Under Development\InfoSys\SetFlat.jpg=No
+E:\vBASIC\Under Development\InfoSys\SetUp.jpg=No
+E:\vBASIC\Under Development\InfoSys\Splash.swf=No
+E:\vBASIC\Under Development\InfoSys\InfoSys.mdb=Yes
+E:\vBASIC\Under Development\InfoSys\Admit.jpg=No
+E:\vBASIC\Under Development\InfoSys\ClrTab.jpg=No
+E:\vBASIC\Under Development\InfoSys\Dischrg.jpg=No
+E:\vBASIC\Under Development\InfoSys\Disease.jpg=No
+E:\vBASIC\Under Development\InfoSys\MedRec.jpg=No
+E:\vBASIC\Under Development\InfoSys\MedSur.jpg=No
+E:\vBASIC\Under Development\InfoSys\Patient.jpg=No
+E:\vBASIC\Under Development\InfoSys\ScrSur.jpg=No
+E:\vBASIC\Under Development\InfoSys\Users.jpg=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Patient's Information System
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=E:\vBASIC\Under Development\InfoSys\Package
+ProjectFolder=E:\vBASIC\Under Development\InfoSys
+ServerSideCab=
+File1=E:\vBASIC\Under Development\InfoSys\Package\setup.exe
+File2=E:\vBASIC\Under Development\InfoSys\Package\Setup.Lst
+File3=E:\vBASIC\Under Development\InfoSys\Package\Information System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Patient's Information System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Patient's Information System]
+Icon1="Information System.exe"
+Title1=Patient's Information System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Deploy|Folder Deployment 1|Root]
+Package=Standard Setup Package 2
+Handler=PDWizard.FolderDplySubWiz
+Folder=E:\vBASIC\Under Development\InfoSys\Deploy
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\vBASIC\Under Development\InfoSys\package
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\WINDOWS\system32\Macromed\Flash\flash.ocx=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\mscomct2.ocx=
+
+[Package|Standard Setup Package 2|Files Added]
+g:\programs\vbasic\infosys\admit.jpg=
+g:\programs\vbasic\infosys\admit.png=
+g:\programs\vbasic\infosys\authorsdown.jpg=
+g:\programs\vbasic\infosys\authorsflat.jpg=
+g:\programs\vbasic\infosys\authorsup.jpg=
+g:\programs\vbasic\infosys\backgrnd.jpg=
+g:\programs\vbasic\infosys\clrtab.jpg=
+g:\programs\vbasic\infosys\clrtab.png=
+g:\programs\vbasic\infosys\dischrg.jpg=
+g:\programs\vbasic\infosys\dischrg.png=
+g:\programs\vbasic\infosys\disease.jpg=
+g:\programs\vbasic\infosys\disease.png=
+g:\programs\vbasic\infosys\frmgetpass.log=
+g:\programs\vbasic\infosys\frmscreensurvey.log=
+g:\programs\vbasic\infosys\initialize.log=
+g:\programs\vbasic\infosys\login.jpg=
+g:\programs\vbasic\infosys\logo.jpg=
+g:\programs\vbasic\infosys\maintdown.jpg=
+g:\programs\vbasic\infosys\maintflat.jpg=
+g:\programs\vbasic\infosys\maintup.jpg=
+g:\programs\vbasic\infosys\medrec.jpg=
+g:\programs\vbasic\infosys\medrec.png=
+g:\programs\vbasic\infosys\medrecdown.jpg=
+g:\programs\vbasic\infosys\medrecflat.jpg=
+g:\programs\vbasic\infosys\medrecup.jpg=
+g:\programs\vbasic\infosys\medsur.jpg=
+g:\programs\vbasic\infosys\medsur.png=
+g:\programs\vbasic\infosys\patient.jpg=
+g:\programs\vbasic\infosys\patient.png=
+g:\programs\vbasic\infosys\region1.swf=
+g:\programs\vbasic\infosys\repdown.jpg=
+g:\programs\vbasic\infosys\repflat.jpg=
+g:\programs\vbasic\infosys\repup.jpg=
+g:\programs\vbasic\infosys\scrsur.jpg=
+g:\programs\vbasic\infosys\scrsur.png=
+g:\programs\vbasic\infosys\searchdown.jpg=
+g:\programs\vbasic\infosys\searchflat.jpg=
+g:\programs\vbasic\infosys\searchup.jpg=
+g:\programs\vbasic\infosys\setdown.jpg=
+g:\programs\vbasic\infosys\setflat.jpg=
+g:\programs\vbasic\infosys\setup.jpg=
+g:\programs\vbasic\infosys\splash.swf=
+g:\programs\vbasic\infosys\users.jpg=
+g:\programs\vbasic\infosys\users.png=
+g:\programs\vbasic\infosys\infosys.mdb=
+
+[Package|Standard Setup Package 2|Files Removed]
+g:\programs\vbasic\infosys\initialize.log=
+g:\programs\vbasic\infosys\frmscreensurvey.log=
+g:\programs\vbasic\infosys\frmgetpass.log=
+g:\programs\vbasic\infosys\admit.png=
+g:\programs\vbasic\infosys\clrtab.png=
+g:\programs\vbasic\infosys\dischrg.png=
+g:\programs\vbasic\infosys\disease.png=
+g:\programs\vbasic\infosys\medrec.png=
+g:\programs\vbasic\infosys\medsur.png=
+g:\programs\vbasic\infosys\patient.png=
+g:\programs\vbasic\infosys\scrsur.png=
+g:\programs\vbasic\infosys\users.png=
+g:\programs\vbasic\infosys\backgrnd.jpg=
+g:\programs\vbasic\infosys\login.jpg=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Programs\vBASIC\InfoSys\Admit.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Admit.png=No
+G:\Programs\vBASIC\InfoSys\AuthorsDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\AuthorsFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\AuthorsUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\backgrnd.jpg=No
+G:\Programs\vBASIC\InfoSys\ClrTab.jpg=Yes
+G:\Programs\vBASIC\InfoSys\ClrTab.png=No
+G:\Programs\vBASIC\InfoSys\Dischrg.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Dischrg.png=No
+G:\Programs\vBASIC\InfoSys\Disease.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Disease.png=No
+G:\Programs\vBASIC\InfoSys\frmGetPass.log=No
+G:\Programs\vBASIC\InfoSys\frmScreenSurvey.log=No
+G:\Programs\vBASIC\InfoSys\Initialize.log=No
+G:\Programs\vBASIC\InfoSys\LogIn.jpg=No
+G:\Programs\vBASIC\InfoSys\logo.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MaintDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MaintFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MaintUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedRec.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedRec.png=No
+G:\Programs\vBASIC\InfoSys\MedRecDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedRecFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedRecUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedSur.jpg=Yes
+G:\Programs\vBASIC\InfoSys\MedSur.png=No
+G:\Programs\vBASIC\InfoSys\Patient.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Patient.png=No
+G:\Programs\vBASIC\InfoSys\Region1.swf=Yes
+G:\Programs\vBASIC\InfoSys\RepDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\RepFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\RepUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\ScrSur.jpg=Yes
+G:\Programs\vBASIC\InfoSys\ScrSur.png=No
+G:\Programs\vBASIC\InfoSys\SearchDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\SearchFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\SearchUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\SetDown.jpg=Yes
+G:\Programs\vBASIC\InfoSys\SetFlat.jpg=Yes
+G:\Programs\vBASIC\InfoSys\SetUp.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Splash.swf=Yes
+G:\Programs\vBASIC\InfoSys\Users.jpg=Yes
+G:\Programs\vBASIC\InfoSys\Users.png=No
+G:\Programs\vBASIC\InfoSys\InfoSys.mdb=Yes
+E:\vBASIC\Under Development\InfoSys\Information System.exe=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\flash.ocx=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+G:\Programs\vBASIC\InfoSys\Information System.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Office\Office10\MSACC.OLB=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Macromed\Flash\flash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Programs\vBASIC\InfoSys\Admit.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Admit.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\AuthorsDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\AuthorsFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\AuthorsUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\backgrnd.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\ClrTab.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\ClrTab.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Dischrg.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Dischrg.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Disease.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Disease.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\LogIn.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\logo.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MaintDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MaintFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MaintUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedRec.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedRec.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedRecDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedRecFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedRecUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedSur.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\MedSur.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Patient.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Patient.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Region1.swf=$(AppPath)
+G:\Programs\vBASIC\InfoSys\RepDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\RepFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\RepUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\ScrSur.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\ScrSur.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SearchDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SearchFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SearchUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SetDown.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SetFlat.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\SetUp.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Splash.swf=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Users.jpg=$(AppPath)
+G:\Programs\vBASIC\InfoSys\Users.png=$(AppPath)
+G:\Programs\vBASIC\InfoSys\InfoSys.mdb=$(AppPath)
+E:\vBASIC\Under Development\InfoSys\Information System.exe=$(AppPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\flash.ocx=$(WinSysPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+G:\Programs\vBASIC\InfoSys\Information System.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+G:\Programs\vBASIC\InfoSys\Admit.jpg=No
+G:\Programs\vBASIC\InfoSys\Admit.png=No
+G:\Programs\vBASIC\InfoSys\AuthorsDown.jpg=No
+G:\Programs\vBASIC\InfoSys\AuthorsFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\AuthorsUp.jpg=No
+G:\Programs\vBASIC\InfoSys\backgrnd.jpg=No
+G:\Programs\vBASIC\InfoSys\ClrTab.jpg=No
+G:\Programs\vBASIC\InfoSys\ClrTab.png=No
+G:\Programs\vBASIC\InfoSys\Dischrg.jpg=No
+G:\Programs\vBASIC\InfoSys\Dischrg.png=No
+G:\Programs\vBASIC\InfoSys\Disease.jpg=No
+G:\Programs\vBASIC\InfoSys\Disease.png=No
+G:\Programs\vBASIC\InfoSys\LogIn.jpg=No
+G:\Programs\vBASIC\InfoSys\logo.jpg=No
+G:\Programs\vBASIC\InfoSys\MaintDown.jpg=No
+G:\Programs\vBASIC\InfoSys\MaintFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\MaintUp.jpg=No
+G:\Programs\vBASIC\InfoSys\MedRec.jpg=No
+G:\Programs\vBASIC\InfoSys\MedRec.png=No
+G:\Programs\vBASIC\InfoSys\MedRecDown.jpg=No
+G:\Programs\vBASIC\InfoSys\MedRecFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\MedRecUp.jpg=No
+G:\Programs\vBASIC\InfoSys\MedSur.jpg=No
+G:\Programs\vBASIC\InfoSys\MedSur.png=No
+G:\Programs\vBASIC\InfoSys\Patient.jpg=No
+G:\Programs\vBASIC\InfoSys\Patient.png=No
+G:\Programs\vBASIC\InfoSys\Region1.swf=No
+G:\Programs\vBASIC\InfoSys\RepDown.jpg=No
+G:\Programs\vBASIC\InfoSys\RepFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\RepUp.jpg=No
+G:\Programs\vBASIC\InfoSys\ScrSur.jpg=No
+G:\Programs\vBASIC\InfoSys\ScrSur.png=No
+G:\Programs\vBASIC\InfoSys\SearchDown.jpg=No
+G:\Programs\vBASIC\InfoSys\SearchFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\SearchUp.jpg=No
+G:\Programs\vBASIC\InfoSys\SetDown.jpg=No
+G:\Programs\vBASIC\InfoSys\SetFlat.jpg=No
+G:\Programs\vBASIC\InfoSys\SetUp.jpg=No
+G:\Programs\vBASIC\InfoSys\Splash.swf=No
+G:\Programs\vBASIC\InfoSys\Users.jpg=No
+G:\Programs\vBASIC\InfoSys\Users.png=No
+G:\Programs\vBASIC\InfoSys\InfoSys.mdb=Yes
+E:\vBASIC\Under Development\InfoSys\Information System.exe=Yes
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Patient's Information System
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Patient's Information System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Patient's Information System]
+Icon1="Information System.exe"
+Title1=Patient's Information System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=e:\vBASIC\Under Development\InfoSys\package
+ProjectFolder=E:\vBASIC\Under Development\InfoSys
+ServerSideCab=
+File1=e:\vBASIC\Under Development\InfoSys\package\setup.exe
+File2=e:\vBASIC\Under Development\InfoSys\package\Setup.Lst
+File3=e:\vBASIC\Under Development\InfoSys\package\Information System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
